@@ -1,0 +1,21 @@
+* {
+}
+.container {
+  text-align: center;
+  margin-top: 50px;
+}
+.container button {
+  width: 100px;
+}
+.my-form form {
+  display: flex;
+  margin-bottom: 20px;
+  flex-direction: column;
+}
+.my-form {
+  /* display: flex;
+  flex-direction: column;
+  flex-wrap: wrap; */
+  width: 300px;
+  /* border: solid 1px black; */
+}
